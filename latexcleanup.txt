@@ -1,0 +1,1 @@
+alias latexcleanup="rm -v *.aux *.bbl *.bcf *.blg *.log *.run.xml *.toc && echo 'Removed latex crap'"
